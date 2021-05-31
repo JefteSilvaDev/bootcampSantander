@@ -11,7 +11,7 @@ spring:
     password: bbdde7b1c4354b413c57e5dd66410e1a1fcbbd957b160bf5fb4f60483ffb8f54
   jpa:
     show-sql: true
-    database-plataforma: org.hibernate.dialect.PostgreSQLDialect
+    database-plataform: org.hibernate.dialect.PostgreSQLDialect
     generate-ddl: true
     hibernate:
       ddl-auto: none
