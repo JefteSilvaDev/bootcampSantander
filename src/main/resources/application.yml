@@ -14,7 +14,7 @@ spring:
     database-plataform: org.hibernate.dialect.PostgreSQLDialect
     generate-ddl: false
     hibernate:
-      ddl-auto: uptade
+      ddl-auto: none
 
 application:
       description: Projeto criado para Bootcamp do DIO e Santander
